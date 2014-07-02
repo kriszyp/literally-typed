@@ -1,0 +1,15 @@
+{
+  "name": "literally-typed",
+  "author": {
+    "name": "Kris Zyp"
+  },
+  "preferGlobal": true,
+  "main": "./bin/ltc.js",
+  "bin": {
+    "tsc": "./bin/tsc"
+  },
+  "dependencies": {
+    "htmlparser2":"3.7.2",
+    "typescript": "1.0.1"
+  }
+}
